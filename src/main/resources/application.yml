@@ -1,0 +1,5 @@
+redis:
+  group: 0
+  host: 10.2.21.65
+  port: 6379
+  keys: DEFAULT_DELAY_QUEUE_TEST_1,DELAY_QUEUE_TEST_1
